@@ -22,7 +22,6 @@ export default function Home() {
       console.log(result)
       return
     }
-    console.log(result)
     router.replace('/admin')
   }
 
